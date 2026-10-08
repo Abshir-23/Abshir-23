@@ -32,7 +32,7 @@ Click any project to open it.
 ### ☁️ Cloud Security
 | Project | What it is |
 |---------|-----------|
-| [cloud-security-azure](https://github.com/Abshir-23/cloud-security-azure) | Secure, GDPR-compliant Azure architecture for a mobility platform, plus a Docker & Linux performance lab. Graded **A** |
+| [cloud-security-azure](https://github.com/Abshir-23/cloud-security-azure) | Secure, GDPR-compliant Azure architecture for a mobility platform, plus a Docker & Linux performance lab |
 
 ### 🛡️ Defensive Security
 | Project | What it is |
