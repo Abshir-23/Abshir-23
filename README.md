@@ -50,7 +50,7 @@ Click any project to open it.
 | Project | What it is |
 |---------|-----------|
 | [sorting-algorithms-analysis](https://github.com/Abshir-23/sorting-algorithms-analysis) | Four sorting algorithms in Java, benchmarked on a real dataset |
-| [python-programming](https://github.com/Abshir-23/python-programming) | Python exam: algorithms, dictionaries, NumPy, and a pandas data-analysis case |
+| [python-programming](https://github.com/Abshir-23/python-programming) | Python projects: algorithms, dictionaries, NumPy, and a pandas data-analysis case |
 
 ## Connect
 
