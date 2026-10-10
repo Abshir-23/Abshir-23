@@ -39,6 +39,11 @@ Click any project to open it.
 |---------|-----------|
 | [iam-rest-api](https://github.com/Abshir-23/iam-rest-api) | A secure REST API with JWT authentication and role-based access control, built with FastAPI |
 
+### 📋 GRC & Compliance
+| Project | What it is |
+|---------|-----------|
+| [gdpr-pii-scanner](https://github.com/Abshir-23/gdpr-pii-scanner) | A tool that scans files for personal data and reports where it lives, automated data discovery for GDPR |
+
 ### 🛡️ Defensive Security
 | Project | What it is |
 |---------|-----------|
