@@ -34,6 +34,11 @@ Click any project to open it.
 |---------|-----------|
 | [cloud-security-azure](https://github.com/Abshir-23/cloud-security-azure) | Secure, GDPR-compliant Azure architecture for a mobility platform, plus a Docker & Linux performance lab |
 
+### 🔐 Identity & Access Management
+| Project | What it is |
+|---------|-----------|
+| [iam-rest-api](https://github.com/Abshir-23/iam-rest-api) | A secure REST API with JWT authentication and role-based access control, built with FastAPI |
+
 ### 🛡️ Defensive Security
 | Project | What it is |
 |---------|-----------|
