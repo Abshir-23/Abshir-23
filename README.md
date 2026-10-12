@@ -23,6 +23,7 @@ Final year cybersecurity student at Kristiania in Oslo. I like building cloud en
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 
 ## 📂 Projects
@@ -43,6 +44,11 @@ Click any project to open it.
 | Project | What it is |
 |---------|-----------|
 | [gdpr-pii-scanner](https://github.com/Abshir-23/gdpr-pii-scanner) | A tool that scans files for personal data and reports where it lives, automated data discovery for GDPR |
+
+### 🌐 Network Security
+| Project | What it is |
+|---------|-----------|
+| [network-security-lab](https://github.com/Abshir-23/network-security-lab) | 🚧 *In progress.* Segmented office network in Cisco Packet Tracer with VLANs, ACLs, SSH hardening and port security |
 
 ### 🛡️ Defensive Security
 | Project | What it is |
