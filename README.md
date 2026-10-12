@@ -1,4 +1,4 @@
-# Hi, I'm Abshir 👋
+# Abshir Arale
 
 **Cybersecurity Student | Cloud Security · IAM · Azure · Automation**
 
