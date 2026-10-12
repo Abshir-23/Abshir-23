@@ -19,6 +19,7 @@ Final year cybersecurity student at Kristiania in Oslo. I like building cloud en
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
@@ -66,6 +67,7 @@ Click any project to open it.
 | Project | What it is |
 |---------|-----------|
 | [sorting-algorithms-analysis](https://github.com/Abshir-23/sorting-algorithms-analysis) | Four sorting algorithms in Java, benchmarked on a real dataset |
+| [c-systems-programming](https://github.com/Abshir-23/c-systems-programming) | Five C programs for Linux: linked lists, POSIX threads with mutexes, an SMTP server and a TCP client, all Valgrind clean |
 | [python-programming](https://github.com/Abshir-23/python-programming) | Python projects: algorithms, dictionaries, NumPy, and a pandas data-analysis case |
 
 ## Connect
