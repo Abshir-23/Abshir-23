@@ -1,16 +1,19 @@
 # Hi, I'm Abshir Arale
 
-**Cybersecurity Student | Cloud Security · IAM · Azure · Automation**
+**Cybersecurity Student · Cloud Security · Identity & Access Management**
 
 ## About me
 
-Final year cybersecurity student at Kristiania in Oslo. I like building cloud environments where security is part of the design, not something added at the end. Most of my work is in Azure, with a focus on access control, automation and keeping systems easy to monitor and maintain.
+I'm a final year cybersecurity student based in Oslo, focused on cloud security and identity and access management. I care about who gets access to what, and why. Most of what I build is about getting that right: least privilege by default, clear audit trails, and security that is part of the design instead of something added at the end.
 
-- ☁️ **Cloud:** Microsoft Azure, containers, Linux administration
-- ⚙️ **Automation & DevOps:** Terraform, Docker, GitHub Actions, scripted deployments
-- 🔐 **Security:** identity and access management, least privilege, system hardening, logging and monitoring
-- 🛡️ **Offensive & defensive labs:** threat hunting, malware detection, penetration testing
-- 🎓 Graduating 2027, open to internships and graduate roles in cloud and IAM
+Alongside my studies I have worked in security and alarm operations, so I know what it looks like when access control fails in the real world, not just on paper.
+
+- ☁️ **Cloud:** Microsoft Azure, Linux administration, containers
+- 🔐 **IAM:** authentication, role based access control, least privilege
+- 📋 **GRC:** risk assessment, GDPR, ISO 27001 and NIST frameworks
+- 🛡️ **Hands on labs:** threat hunting in Splunk, malware detection, penetration testing, network hardening
+- 💻 **Code:** Python, C, Java, Bash
+- 🎓 Graduating 2027, **open to internships and graduate roles in cloud security and IAM**
 
 ## Tools & Technologies
 
