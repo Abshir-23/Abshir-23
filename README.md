@@ -1,21 +1,21 @@
-# Hi, I'm Abshir Arale
+# Hei, jeg er Abshir Arale
 
-**Cybersecurity Student · Cloud Security · Identity & Access Management**
+**Student i cybersikkerhet · Skysikkerhet · Identitets- og tilgangsstyring**
 
-## About me
+## Om meg
 
-I'm a final year cybersecurity student based in Oslo, focused on cloud security and identity and access management. I care about who gets access to what, and why. Most of what I build is about getting that right: least privilege by default, clear audit trails, and security that is part of the design instead of something added at the end.
+Jeg går siste år på bachelor i cybersikkerhet i Oslo, med fokus på skysikkerhet og identitets- og tilgangsstyring (IAM). Jeg er opptatt av hvem som får tilgang til hva, og hvorfor. Det meste av det jeg bygger handler om å få dette riktig: minste privilegium som standard, tydelige revisjonsspor og sikkerhet som er en del av designet fra start, ikke noe som legges på til slutt.
 
-Alongside my studies I have worked in security and alarm operations, so I know what it looks like when access control fails in the real world, not just on paper.
+Ved siden av studiene har jeg jobbet med vakthold og alarmovervåking, så jeg vet hvordan det ser ut når tilgangskontroll svikter i virkeligheten, ikke bare på papiret.
 
-- ☁️ **Cloud:** Microsoft Azure, Linux administration, containers
-- 🔐 **IAM:** authentication, role based access control, least privilege
-- 📋 **GRC:** risk assessment, GDPR, ISO 27001 and NIST frameworks
-- 🛡️ **Hands on labs:** threat hunting in Splunk, malware detection, penetration testing, network hardening
-- 💻 **Code:** Python, C, Java, Bash
-- 🎓 Graduating 2027, **open to internships and graduate roles in cloud security and IAM**
+- ☁️ **Sky:** Microsoft Azure, Linux-drift, containere
+- 🔐 **IAM:** autentisering, rollebasert tilgangskontroll, minste privilegium
+- 📋 **GRC:** risikovurdering, GDPR, ISO 27001 og NIST-rammeverk
+- 🛡️ **Praktiske lab-oppgaver:** trusseljakt i Splunk, skadevaredeteksjon, penetrasjonstesting, nettverksherding
+- 💻 **Kode:** Python, C, Java, Bash
+- 🎓 Ferdig våren 2027, **åpen for internship og stillinger som nyutdannet innen skysikkerhet og IAM**
 
-## Tools & Technologies
+## Verktøy og teknologier
 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -30,50 +30,50 @@ Alongside my studies I have worked in security and alarm operations, so I know w
 ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 
-## 📂 Projects
+## 📂 Prosjekter
 
-Click any project to open it.
+Klikk på et prosjekt for å åpne det.
 
-### ☁️ Cloud Security
-| Project | What it is |
+### ☁️ Skysikkerhet
+| Prosjekt | Hva det er |
 |---------|-----------|
-| [cloud-security-azure](https://github.com/Abshir-23/cloud-security-azure) | Secure, GDPR-compliant Azure architecture for a mobility platform, plus a Docker & Linux performance lab |
+| [cloud-security-azure](https://github.com/Abshir-23/cloud-security-azure) | Sikker og GDPR-vennlig Azure-arkitektur for en mobilitetsplattform, pluss en ytelseslab med Docker og Linux |
 
-### 🔐 Identity & Access Management
-| Project | What it is |
+### 🔐 Identitets- og tilgangsstyring
+| Prosjekt | Hva det er |
 |---------|-----------|
-| [iam-rest-api](https://github.com/Abshir-23/iam-rest-api) | A secure REST API with JWT authentication and role-based access control, built with FastAPI |
+| [iam-rest-api](https://github.com/Abshir-23/iam-rest-api) | Et sikkert REST API med JWT-autentisering og rollebasert tilgangskontroll, bygget med FastAPI |
 
-### 📋 GRC & Compliance
-| Project | What it is |
+### 📋 GRC og etterlevelse
+| Prosjekt | Hva det er |
 |---------|-----------|
-| [gdpr-pii-scanner](https://github.com/Abshir-23/gdpr-pii-scanner) | A tool that scans files for personal data and reports where it lives, automated data discovery for GDPR |
+| [gdpr-pii-scanner](https://github.com/Abshir-23/gdpr-pii-scanner) | Et verktøy som skanner filer etter personopplysninger og rapporterer hvor de ligger, automatisk kartlegging av data for GDPR |
 
-### 🌐 Network Security
-| Project | What it is |
+### 🌐 Nettverkssikkerhet
+| Prosjekt | Hva det er |
 |---------|-----------|
-| [network-security-lab](https://github.com/Abshir-23/network-security-lab) | 🚧 *In progress.* Segmented office network in Cisco Packet Tracer with VLANs, ACLs, SSH hardening and port security |
+| [network-security-lab](https://github.com/Abshir-23/network-security-lab) | 🚧 *Under arbeid.* Segmentert kontornettverk i Cisco Packet Tracer med VLAN, ACL, SSH-herding og portsikkerhet |
 
-### 🛡️ Defensive Security
-| Project | What it is |
+### 🛡️ Defensiv sikkerhet
+| Prosjekt | Hva det er |
 |---------|-----------|
-| [SIEM-threat-hunting](https://github.com/Abshir-23/SIEM-threat-hunting) | Threat hunting in Splunk, and a Splunk vs Wazuh comparison |
-| [Yara-clamav-detection](https://github.com/Abshir-23/Yara-clamav-detection) | A custom YARA rule for a malicious macro, scanned with ClamAV |
-| [Phishing-macro-analysis](https://github.com/Abshir-23/Phishing-macro-analysis) | Analysing a phishing email's macro payload, mapped to MITRE ATT&CK |
+| [SIEM-threat-hunting](https://github.com/Abshir-23/SIEM-threat-hunting) | Trusseljakt i Splunk, og en sammenligning av Splunk og Wazuh |
+| [Yara-clamav-detection](https://github.com/Abshir-23/Yara-clamav-detection) | En egen YARA-regel for en ondsinnet makro, skannet med ClamAV |
+| [Phishing-macro-analysis](https://github.com/Abshir-23/Phishing-macro-analysis) | Analyse av makrolasten i en phishing-e-post, koblet til MITRE ATT&CK |
 
-### 🔍 Offensive Security
-| Project | What it is |
+### 🔍 Offensiv sikkerhet
+| Prosjekt | Hva det er |
 |---------|-----------|
-| [penetration-testing-report](https://github.com/Abshir-23/penetration-testing-report) | Full web & infrastructure pentest report, 38 findings, OWASP WSTG |
+| [penetration-testing-report](https://github.com/Abshir-23/penetration-testing-report) | Full pentest-rapport for webapplikasjon og infrastruktur, 38 funn, OWASP WSTG |
 
-### 💻 Programming
-| Project | What it is |
+### 💻 Programmering
+| Prosjekt | Hva det er |
 |---------|-----------|
-| [sorting-algorithms-analysis](https://github.com/Abshir-23/sorting-algorithms-analysis) | Four sorting algorithms in Java, benchmarked on a real dataset |
-| [c-systems-programming](https://github.com/Abshir-23/c-systems-programming) | Five C programs for Linux: linked lists, POSIX threads with mutexes, an SMTP server and a TCP client, all Valgrind clean |
-| [python-programming](https://github.com/Abshir-23/python-programming) | Python projects: algorithms, dictionaries, NumPy, and a pandas data-analysis case |
+| [sorting-algorithms-analysis](https://github.com/Abshir-23/sorting-algorithms-analysis) | Fire sorteringsalgoritmer i Java, testet på et ekte datasett |
+| [c-systems-programming](https://github.com/Abshir-23/c-systems-programming) | Fem C-programmer for Linux: lenkede lister, POSIX-tråder med mutexer, en SMTP-server og en TCP-klient, alle uten feil i Valgrind |
+| [python-programming](https://github.com/Abshir-23/python-programming) | Python-prosjekter: algoritmer, ordbøker, NumPy og en dataanalyse med pandas |
 
-## Connect
+## Kontakt
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abshir-arale)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abshira57@gmail.com)
+[![E-post](https://img.shields.io/badge/E--post-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abshira57@gmail.com)
