@@ -66,6 +66,11 @@ Klikk på et prosjekt for å åpne det.
 |---------|-----------|
 | [penetration-testing-report](https://github.com/Abshir-23/penetration-testing-report) | Full pentest-rapport for webapplikasjon og infrastruktur, 38 funn, OWASP WSTG |
 
+### 📊 Data og personvern
+| Prosjekt | Hva det er |
+|---------|-----------|
+| [garmin-health-dashboard](https://github.com/Abshir-23/garmin-health-dashboard) | Henter egne helsedata fra Garmin Connect og viser dem i et dashboard med anbefalinger. Ekte data havner aldri i git, og siden har streng CSP. [Live demo](https://abshir-23.github.io/garmin-health-dashboard/) |
+
 ### 💻 Programmering
 | Prosjekt | Hva det er |
 |---------|-----------|
