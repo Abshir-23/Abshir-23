@@ -47,6 +47,7 @@ Klikk på et prosjekt for å åpne det.
 ### 📋 GRC og etterlevelse
 | Prosjekt | Hva det er |
 |---------|-----------|
+| [azure-grc-lab](https://github.com/Abshir-23/azure-grc-lab) | Sikkerhetsgjennomgang av en fiktiv norsk helsebedrift i Azure: IAM, compliance as code mot CIS og ISO 27001, risikovurdering og rapport til ledelsen |
 | [gdpr-pii-scanner](https://github.com/Abshir-23/gdpr-pii-scanner) | Et verktøy som skanner filer etter personopplysninger og rapporterer hvor de ligger, automatisk kartlegging av data for GDPR |
 
 ### 🌐 Nettverkssikkerhet
