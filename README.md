@@ -2,6 +2,14 @@
 
 **Student i cybersikkerhet · Skysikkerhet · Identitets- og tilgangsstyring**
 
+## ⭐ Nyeste prosjekt: [Azure GRC Lab](https://github.com/Abshir-23/azure-grc-lab)
+
+En sikkerhetsgjennomgang av en fiktiv norsk helsebedrift som har flyttet til Azure i full fart. Jeg bygger miljøet i Entra ID og Azure, måler det mot **CIS, ISO 27001 og NSMs grunnprinsipper** med Azure Policy, og har laget et script som finner avvikene automatisk. Til slutt en **risikovurdering** og en **rapport til ledelsen** med en konkret tiltaksplan.
+
+**Fant blant annet:** innlogging uten MFA · pasientvedlegg åpne på internett · en tidligere ansatt med full tilgang
+
+👉 [Se prosjektet](https://github.com/Abshir-23/azure-grc-lab) · [Les rapporten til ledelsen](https://github.com/Abshir-23/azure-grc-lab/blob/main/docs/03-rapport.md)
+
 ## Om meg
 
 Jeg går siste år på bachelor i cybersikkerhet i Oslo, med fokus på skysikkerhet og identitets- og tilgangsstyring (IAM). Jeg er opptatt av hvem som får tilgang til hva, og hvorfor. Det meste av det jeg bygger handler om å få dette riktig: minste privilegium som standard, tydelige revisjonsspor og sikkerhet som er en del av designet fra start, ikke noe som legges på til slutt.
